@@ -1,0 +1,104 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 45px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;  
+
+}
+
+a {
+    color: rgb(214, 174, 233);
+    text-decoration: none;
+    font-size: medium;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid blueviolet;
+    
+}
+
+header{
+    text-align: center;
+    
+}
+
+h1{
+    color: blueviolet;
+}
+
+h2{
+    color: rgb(214, 174, 233);
+}
+
+h3{
+    color: rgb(214, 174, 233);
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+footer a{
+    margin: 20px;
+    text-align: center;
+    color: blueviolet;
+}
+
+footer p{
+    margin-top: 2px;
+}
+
+section img {
+    height: 30px;
+    width: 30px;
+}
+
+#contato {
+    font-size: 28px;
+    text-align: center;
+}
+
+hr {
+    border-color: blueviolet;    
+}
+
+img {
+    border: 3px;
+    border-color: blueviolet;
+}
+
+.projetos {
+    margin-bottom: 10px;
+}
+
+#imgProjetos {
+    border-radius: 10%;
+    border: 5px solid blueviolet;
+    margin-bottom: 20px;
+    height: 500px;
+    width: 470px;
+}
+
+#imgProjetos1 {
+    border-radius: 10%;
+    border: 5px solid blueviolet;
+    margin-bottom: 20px;
+    height: 500px;
+}
